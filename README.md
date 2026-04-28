@@ -1,1 +1,1 @@
-https://terpsracingicanalysistool.netlify.app/
+https://tr-data-analysis-tool.netlify.app/
